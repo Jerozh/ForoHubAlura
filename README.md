@@ -1,4 +1,4 @@
-<h1 id="titulo" align="center">Foro Hub .</h1>
+<h1 id="titulo" align="center">Foro Hub.</h1>
  <p align="center">
    <img id="insignia" src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
